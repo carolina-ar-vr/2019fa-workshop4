@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4723372068863295603
+  m_GuidHigh: 12416825751616086192
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5718923079361902406
+      m_GuidHigh: 2863170474914507911
+    m_SerializedTextureGuid:
+      m_GuidLow: 3293495888178950690
+      m_GuidHigh: 8376552749832524906
+    m_Size: {x: 0.1, y: 0.10331289}
+    m_SpecifySize: 1
+    m_Name: NachoBowl1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5403313451387850855
+      m_GuidHigh: 15814103716615119762
+    m_SerializedTextureGuid:
+      m_GuidLow: 16822188481501388734
+      m_GuidHigh: 5952582228316988043
+    m_Size: {x: 0.1, y: 0.096941896}
+    m_SpecifySize: 1
+    m_Name: NachoBowl2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5090090204437744850
+      m_GuidHigh: 18095476038990364863
+    m_SerializedTextureGuid:
+      m_GuidLow: 7211486204262750057
+      m_GuidHigh: 160414582017865194
+    m_Size: {x: 0.1, y: 0.09971265}
+    m_SpecifySize: 1
+    m_Name: NachoBowl3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5235224998545718550
+      m_GuidHigh: 11688804225898712495
+    m_SerializedTextureGuid:
+      m_GuidLow: 18290478774308522006
+      m_GuidHigh: 3646479702298338665
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: NachoBowl4
+    m_Texture: {fileID: 0}
