@@ -149,9 +149,12 @@ Steps to Add Component:
 ### First Steps 
 
     1. Install AR-Foundation using the Package manager
-    2. Open Game Scene
+       Window -> Package Manager (It takens some time to load.)
+    2. Find the items in the image below, download version 3.0.0
+       If the versions are not there, clock on the "Advanced" option right underneath the heading, and click on "Show preview packages"
+    3. Open Game Scene
 
-    ![](/imgs/ardepen.JPG)
+![](/imgs/ardepen.JPG)
 
 
 ### Setting up the scene 
@@ -159,11 +162,9 @@ Steps to Add Component:
 
 #### Add AR Components to Scene 
 
-    1. GameComponents -> XR -> AR Session Origin
+    1. GameComponents -> XR -> AR Session Origin (It automatically come with AR camera as child object)
     2. GameComponents -> XR -> AR Session
     3. Add Reference Image Library
-
-    ![](/imgs/image name)
 
 #### Add Images to the Image Library 
 
